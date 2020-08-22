@@ -6,6 +6,8 @@ import QuickMatch from "./components/QuickMatch";
 import Battle from "./components/Battle";
 import Help from "./components/Help";
 
+import "./App.css";
+
 const App = () => {
 
   return (
