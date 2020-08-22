@@ -4,7 +4,7 @@ const Home = () => {
 
   return (
     <>
-      
+      <h1>Welcome to Elerps!</h1>
 
     </>
   )

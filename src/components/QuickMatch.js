@@ -4,7 +4,7 @@ const QuickMatch = () => {
 
   return (
     <>
-      
+      <h1>Quick Match</h1>
 
     </>
   )
