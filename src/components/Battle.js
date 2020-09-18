@@ -6,6 +6,8 @@ const Battle = () => {
     <>
       <h1>Battle</h1>
 
+      <h2>Number of Rounds</h2>
+
     </>
   )
 
